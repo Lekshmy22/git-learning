@@ -9,3 +9,11 @@ git status                                     [to list untracked files]
 git add -A                                     [to add all untracked files to staging area]
 
 git commit -m "commit message"                 [to move staged files to local repository]
+
+git remote remote_name remote_path             [adding remote]
+
+git push remote_name branch                     [push]
+
+git branch                                     [list all branch]
+
+git remote -v                                  [list all remote]
