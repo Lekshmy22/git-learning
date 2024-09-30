@@ -1,0 +1,3 @@
+git config --global user.name "your username"  [to add your username in git ]
+
+git config --global user.email "your email"    [to add your email]
